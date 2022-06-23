@@ -1,5 +1,5 @@
 from flask import Flask
-from .views.s3_controller import s3_api as s3
+from .controllers.s3_controller import s3_api as s3
 
 
 def create_app() -> Flask:
