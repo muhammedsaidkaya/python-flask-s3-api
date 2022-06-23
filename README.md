@@ -3,7 +3,7 @@
 
 ## Technologies/Tools and Frameworks
 
-* *Programming Language - Framework*: Python3.8 - Flask
+* *Programming Language - Framework*: Python3 - Flask
 * *Containerization*: Docker
 
 
